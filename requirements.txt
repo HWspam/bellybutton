@@ -3,6 +3,7 @@ click==6.7
 Flask==1.0.2
 Flask-SQLAlchemy==2.3.2
 itsdangerous==0.24
+gunicorn==19.9.0
 Jinja2==2.10
 MarkupSafe==1.0
 numpy==1.14.5
